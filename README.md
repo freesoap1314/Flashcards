@@ -7,7 +7,7 @@ Flashcard that has a question on it and needs user input to reveal the
 App will open to a screen with a question on it
 Tap screen and the other side off the flashcard will appear
 
-<img src= "https://gph.is/2QPocDV" width=200><br>
+<img src= "https://media.giphy.com/media/2zoFe8yXjITZmj9wjy/giphy.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Xcode
